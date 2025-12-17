@@ -1,0 +1,4 @@
+cohere>=5.20.0
+qdrant-client>=1.16.1
+requests>=2.32.5
+trafilatura>=2.0.0

@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: rag-chatbot
+Version: 0.1.0
+Summary: RAG chatbot with Cohere and Qdrant
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: cohere>=5.20.0
+Requires-Dist: qdrant-client>=1.16.1
+Requires-Dist: requests>=2.32.5
+Requires-Dist: trafilatura>=2.0.0
